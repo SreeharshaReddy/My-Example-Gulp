@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "n",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sreeharsha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "SreeharshaReddy"
+  },
+  "keywords": [
+    "gulp"
+  ]
+}
