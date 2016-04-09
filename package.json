@@ -14,5 +14,9 @@
   },
   "keywords": [
     "gulp"
-  ]
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0"
+  }
 }
